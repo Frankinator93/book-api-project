@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your actual GitHub Pages URL
-url = "https://Frankinator93.github.io/book-api-project/custom_data.json"
+url = "https://github.com/Frankinator93/book-api-project/tree/main"
 
 def fetch_and_display_books(api_url):
     try:
