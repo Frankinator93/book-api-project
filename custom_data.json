@@ -1,0 +1,33 @@
+[
+    {
+      "name": "1984",
+      "description": "A dystopian novel by George Orwell.",
+      "specifications": {
+        "author": "George Orwell",
+        "published": 1949,
+        "genre": "Dystopian Fiction"
+      },
+      "tags": ["dystopia", "classic", "political"]
+    },
+    {
+      "name": "To Kill a Mockingbird",
+      "description": "A novel about racial injustice in the Deep South.",
+      "specifications": {
+        "author": "Harper Lee",
+        "published": 1960,
+        "genre": "Southern Gothic"
+      },
+      "tags": ["justice", "classic", "racism"]
+    },
+    {
+      "name": "The Great Gatsby",
+      "description": "A critique of the American Dream.",
+      "specifications": {
+        "author": "F. Scott Fitzgerald",
+        "published": 1925,
+        "genre": "Tragedy"
+      },
+      "tags": ["wealth", "dream", "1920s"]
+    }
+  ]
+  
